@@ -1,0 +1,5 @@
+6h sáng: ghi câu khẳng định ra giấy 3 lần
+12h:	 ghi câu khẳng định ra giấy 6 lần
+21h:	 ghi câu khẳng định ra giấy 9 lần
+
+thực hành 33 ngày liên tục.
